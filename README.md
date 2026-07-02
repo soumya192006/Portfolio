@@ -134,6 +134,10 @@ GitHub:
 https://github.com/soumya192006
 
 ---
+## Future Enhancements
+
+- Add dark/light mode
+- Add blog section
 
 ## ⭐ If you like this project
 
