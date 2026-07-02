@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🚀 Live Demo
 
-https://soumya192006.github.io/portfolio/
+https://soumya192006.github.io/Portfolio/
 
 
 ---
