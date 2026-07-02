@@ -136,10 +136,10 @@ https://github.com/soumya192006
 ---
 ## 🚀 Future Enhancements
 
-- Dark/Light mode
-- Blog section
-- Project filtering
-- Contact form integration
+-  Dark/Light mode
+-  Blog section
+-  Project filtering
+-  Contact form integration
 
 ## ⭐ If you like this project
 
