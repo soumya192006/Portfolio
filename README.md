@@ -134,10 +134,12 @@ GitHub:
 https://github.com/soumya192006
 
 ---
-## Future Enhancements
+## 🚀 Future Enhancements
 
-- Add dark/light mode
-- Add blog section
+- Dark/Light mode
+- Blog section
+- Project filtering
+- Contact form integration
 
 ## ⭐ If you like this project
 
